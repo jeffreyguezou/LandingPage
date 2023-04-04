@@ -1,0 +1,11 @@
+.navbar-logo{
+    height:60px;
+    display: flex;
+}
+.bodyImg{
+    background-image: url(../LandingPage/images/bgimg.jpg);
+    height:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
