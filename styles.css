@@ -2,10 +2,24 @@
     height:60px;
     display: flex;
 }
-.bodyImg{
+.header-row{
     background-image: url(../LandingPage/images/bgimg.jpg);
     height:100%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+.card{
+    background: transparent;
+    border:0;
+}
+.cardtext{
+    color: black;
+}
+.cardtext:hover{
+    color:black;
+}
+.card-contents{
+    display: flex;
 }
